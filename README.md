@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Champika Ranaweera</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
+
+<h1 align="center">Hi, I'm Champika Ranaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it21271250&label=Profile%20views&color=0e75b6&style=flat" alt="it21271250" /> </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=WELCOME..&hearts;++;Let's+Explore..!"></a>
+  <b><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=WELCOME+to+my+profile..&hearts;++;Let's+Explore..!"></a></b>
+</p>
+
+<p align="center">
+  <b>"I am a person who likes to improve myself continuously, and I am always willing to take up new challenges and<br> give my best to achieve the goals using my technical and non-technical skills in order to elevate the state of<br> my workplace as well as the society"</b><br><br>
 </p>
 
 ---
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🔭 I’m currently learning on **SLIIT - Sri Lanka Institute of Information Technology**
   
 - 🌱 I’m currently learning **Java and Arduino**
@@ -17,7 +27,18 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **cranaweera96@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
   
+  </td>
+</tr>
+</table>
+
+
 ---
 
 ## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width ="25" alt="Git"/>&nbsp;<b> Git Analytics :</b>
@@ -27,7 +48,7 @@
 </p>
 
 ---
-## <p align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Connect With Me :</b>
+## <p align="center"><img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width ="25"><b> Connect With Me :</b>
 <p align="center">
 <a href="https://linkedin.com/in/champika ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/champika-ranaweera-385752215/ " height="30" width="40" /></a>
 <a href="https://fb.com/champika ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[champika ranaweera](https://www.facebook.com/share/DRe2EtyP1Xjri2sN/?mibextid=LQQJ4d)" height="30" width="40" /></a>
