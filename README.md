@@ -5,6 +5,12 @@
 
 ---
 - 🔭 I’m currently learning on **SLIIT - Sri Lanka Institute of Information Technology**
+  
+- 🌱 I’m currently learning **Java and Arduino**
+
+- 👯 I have **11 months of service experience at Axiata Digital Labs as an Intern software engineer**
+
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **cranaweera96@gmail.com**
 ---
